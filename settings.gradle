@@ -1,0 +1,3 @@
+include 'omar-config-server', 
+        'omar-eureka-server',
+        'omar-cloud-test'
